@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "rootDirectory": ".",   ←←← 增加这一行
   "routes": [
     {
       "src": "/chat",
